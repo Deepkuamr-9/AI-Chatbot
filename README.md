@@ -110,5 +110,3 @@ python chat.py
 
 ---
 
-
-Just tell me 👍
